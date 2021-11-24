@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Sriharsha Sikhakolli. - github webhook trigger test version and one more time test case</h1>
+<h1 align="center">Welcome to Sriharsha Sikhakolli. - Devops TRaining session</h1>
 <h1 align="center"> Welcome to Sriharsha DevOps....... i am learning Devops Tolls: Linux&Shellscripting, Git,    Apache-Maven,   Tomcat,SonarQube,  Sonartype Nexus,  Jenkins,  Docker,  K-8'S and  Ansible  </h1>
 <hr>
 <div style="text-align: center;">
@@ -17,21 +17,21 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
+		Sriharsha Sikhakolli, 
 		Martha Halli,
 		Bangalore,
-		+91-9980923226,
-		devopstrainingbr@gmail.com
+		+91-9398664016,
+		sharsha282@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:sharsha282@gmail.com">Mail to Harsha DevOps</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>Sriharsha Sikhakolli - Learing DevOps Session.</p>
+<p align=center><small>Copyrights 2021 by <a href= harsha>Harsha DevOPs</a> </small></p>
 
 </body>
 </html>
